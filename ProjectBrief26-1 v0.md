@@ -606,7 +606,7 @@ ESG 리포팅 자동화, 맞춤형 행동 가이드, 경량화 플랫폼 |
 | (1) 과제명 |  MARS: Modality-Aware Reconfiguration Scheduler for On-device Multi-Modal Inference on Multi-Core NPUs |
 |:---  |---  |
 | (2) 팀 번호/이름 | 38-ModalArc |
-| (3) 구성원 | 하정연(2376305): 리더,*역할,...* <br> 이지현(2276246): 팀원,*역할,....* <br> 최윤지(2317034): 팀원,*역할,....* |
+| (3) 구성원 | 하정연(2376305): 리더, 시스템 아키텍처, 논문 총괄 담당 <br> 이지현(2276246): 팀원, 성능 분석 및 검증, 논문 실험 담당 <br> 최윤지(2317034): 팀원, NPU 코어 로직 설계 및 구현, 논문 구현 담당|
 | (4) 지도교수 | 심재형 교수 |
 | (5) 트랙  | 연구 |
 | (6) 과제 키워드 | NPU, Multi-modal AI Inference, Multi-Core Scheduling, Dynamic Reconfiguration, On-device |
